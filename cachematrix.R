@@ -3,7 +3,7 @@
 ## Below there are two functions: 1) makeCacheMatrix, 2) cacheSolve.
 
 ## Firstly, the 'makeCacheMatrix' creates a special ''matrix'' object
-## that can cache its inverse.
+## that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NUL
